@@ -100,14 +100,22 @@ Mera tech journey in cheezon par revolves karta hai:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mukhtiar1090&show_icons=true&theme=radial&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtiar1090&theme=radial&hide_border=true" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukhtiar1090&theme=react-dark&hide_border=true" width="97%" />
 
 </div>
 
 ---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mukhtiar1090&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
 
 ## 🏅 GitHub Trophies
 
@@ -132,13 +140,9 @@ Mera tech journey in cheezon par revolves karta hai:
 
 📊 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Mukhtiar1090&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
----
-
-<div align="center">
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
