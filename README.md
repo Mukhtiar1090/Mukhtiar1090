@@ -25,14 +25,14 @@
 
 ## 👋 About Me
 
-Main **Mukhtiar Ahmad** hoon, ek passionate Full Stack Web Developer aur Machine Learning Specialist. Main modern web applications build karta hoon aur AI/ML models ko smart database solutions ke sath integrate karta hoon.
+I am **Mukhtiar Ahmad**, a passionate Full Stack Web Developer and Machine Learning Specialist. I build modern web applications and seamlessly integrate AI/ML models with intelligent database solutions.
 
-Mera tech journey in cheezon par revolves karta hai:
+My tech journey revolves around:
 
-- 🌐 **Full Stack Web Development:** High-performance, responsive web applications create karna.
-- 🤖 **Machine Learning & AI:** Predictive models aur data-driven intelligent systems train karna.
-- 🗄️ **Database Architecture:** Relational (SQL) aur NoSQL databases ko structure aur optimize karna.
-- 🚀 **Continuous Innovation:** Modern tech stack aur system designs seekhna.
+- 🌐 **Full Stack Web Development:** Creating high-performance, responsive web applications.
+- 🤖 **Machine Learning & AI:** Training predictive models and data-driven intelligent systems.
+- 🗄️ **Database Architecture:** Structuring and optimizing relational (SQL) and NoSQL databases.
+- 🚀 **Continuous Innovation:** Learning modern tech stacks and system designs.
 
 ---
 
