@@ -109,26 +109,14 @@ Mera tech journey in cheezon par revolves karta hai:
 
 ---
 
-## 🏅 GitHub Trophies
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukhtiar1090&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-## 🏅 GitHub Trophies
-
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukhtiar1090&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mukhtiar1090&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 📬 Let's Connect!
@@ -142,20 +130,17 @@ Mera tech journey in cheezon par revolves karta hai:
 
 <div align="center">
 
-📊 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mukhtiar1090&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+## 👀 Profile Visitors
 
-```
+<img src="https://count.getloli.com/@Mukhtiar1090?name=Mukhtiar1090&theme=booru-tamaki&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
+
+<br><br>
+
+```text
 ╔════════════════════════════════════════════════════════════════╗
 ║                Made with 🖤 by Mukhtiar Ahmad                  ║
 ║            Building the future, one line of code               ║
 ║                     Last Updated: 2026                         ║
 ╚════════════════════════════════════════════════════════════════╝
-```
-
-**"Keep Learning. Keep Building. Keep Innovating."** 🚀
-
-</div>
